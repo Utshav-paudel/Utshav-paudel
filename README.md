@@ -9,7 +9,7 @@
 <p>
 I am a Data science and machine learning learner. My goals is to learn consistently and share my learnings here .</p>
 
-* 🌱 I’m currently learning **Data Analysis and Visulazation**
+* 🌱 I’m currently learning **Data Analysis and Visualization**
 
 * 👨‍💻 All of my projects are available at [www.utshavpaudel.com.np](https://utshavpaudel.com.np/)
 
