@@ -1,4 +1,26 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* CSS for the GIF */
+        .gif-container {
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .gif-container img {
+            width: 100%;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="gif-container">
+        <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF">
+    </div>
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm Utshav Paudel</h1>
 <h3 align="center">A passionate Data science and Ml learner from Nepal</h3>
 
