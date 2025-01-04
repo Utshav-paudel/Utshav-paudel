@@ -11,7 +11,7 @@ I am a Machine learning and deep learning enthusiast. My goals is to learn consi
 
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-* 🌱 I’m currently learning **Natural Language Processing**
+* 🌱 I’m currently learning **Langgraph**
 
 * 👨‍💻 All of my projects are available at [www.utshavpaudel.com.np](https://utshavpaudel.com.np/)
 
